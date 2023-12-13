@@ -4,3 +4,5 @@ Five Minutes 'Till Five is a stealth based game where you are working your regul
 Created by Henry Boekhoff, Lachlan Imel, Hunter Smith and Richie Mohan
 
 Voiceover performance by Aran Clauson
+
+The Game Design Document for this project can be viewed [here](https://docs.google.com/document/d/17JpR0WN2fjQGXahFKSfOfuwjcl9Plhu_M__bCkrN2Gc/edit?usp=sharing)
